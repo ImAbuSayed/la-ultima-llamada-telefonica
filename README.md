@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-ultima-llamada-telefonica/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for La última llamada telefónica](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-llamada-telefonica/) |
+| **Get License** | [Commercial Licensing for La última llamada telefónica](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-llamada-telefonica/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Suena el móvil en la noche y sé que tú estás pensando
+> En la última llamada que al final me estás colgando
+> Baby, no me dejes solo, que esta fiebre me domina
+> Esa actitud de diosa es mi nueva medicina
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
