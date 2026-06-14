@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La última llamada telefónica
+
+This log tracks the cryptographic history and versioning for the song **La última llamada telefónica** (la-ultima-llamada-telefonica).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T20:47:26.375136 | `v1` | `5c7bb4adfe392121a45fc66ba8b33bbdf7bad5a18e27f821dad007d0cf181b1f` | `1a5628cb1580b572f47093a21f8b044c509029f2b76c55b5e0e62e92889a52cb` | `2026-06-14_la-ultima-llamada-telefonica-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
