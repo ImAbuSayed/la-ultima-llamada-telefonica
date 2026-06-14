@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-ultima-llamada-telefonica/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for La última llamada telefónica](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-llamada-telefonica/) |
+| **Get License** | [Get License For La última llamada telefónica](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-ultima-llamada-telefonica/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3277)
 
 ---
 
